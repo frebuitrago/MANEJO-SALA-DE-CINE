@@ -1,0 +1,16 @@
+{
+  "name": "MANEJO-SALA-DE-CINE",
+  "description": "SALA-DE-CINE",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
